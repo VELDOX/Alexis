@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+.grafficlogo{
+	position: absolute;
+	left: 20%;
+	top: 25px;
+    transform: translate(-50%,-50%);
+    
+}
+.logo{
+    position: absolute;
+    margin: auto;
+    left: 50%;
+    top: 25px;
+    width: 800px;
+}
+.main{
+
+}
